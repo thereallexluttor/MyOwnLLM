@@ -1,1 +1,6 @@
 codeparrot/
+models/
+runs/
+wandb/
+MyOwnLLM/
+HedinyerM/
